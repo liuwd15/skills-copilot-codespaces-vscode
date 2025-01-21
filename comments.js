@@ -1,4 +1,4 @@
-// create web server
+// Create web server
 // web server listens to port 3000
 // web server has a single endpoint: '/comments'
 // when a GET request is made to '/comments', the server will respond with a JSON object containing an array of comments
